@@ -61,12 +61,15 @@ This project answers 15+ real-world data questions using visual and statistical 
 ---
 
 
-##💡 Future Enhancements
+## 💡 Future Enhancements
+
 -Streamlit dashboard for interactive exploration
 -Genre clustering based on price & rating behavior
--Sentiment analysis on game reviews (if available)
+-Sentiment analysis on game reviews 
 
-##🙋‍♂️ About Me
+---
+
+## 🙋‍♂️ About Me
 Raghav Ratan Yadav
 📧 rghvrtnydv2003@gmail.com
 🔗 LinkedIn- https://www.linkedin.com/in/raghav-ratan-yadav-6a316b250/
