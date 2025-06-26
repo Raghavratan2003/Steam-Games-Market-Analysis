@@ -1,4 +1,4 @@
-# 🎮 Steam Games Market Analysis (2006–2021)
+# 🎮 Steam Games Market Analysis
 
 > 📊 Data-driven insights into the pricing, genre trends, and user ratings of over 27,000 Steam games using Python, Pandas, Matplotlib & Seaborn.
 
