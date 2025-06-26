@@ -1,5 +1,5 @@
 # 🎮 Steam Games Market Analysis
-
+![STEAM LOGO](https://github.com/Raghavratan2003/netflix_sql_project/blob/main/pngwing.com%20(11).png)
 > 📊 Data-driven insights into the pricing, genre trends, and user ratings of over 27,000 Steam games using Python, Pandas, Matplotlib & Seaborn.
 
 ---
